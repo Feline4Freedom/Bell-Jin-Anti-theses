@@ -383,7 +383,7 @@ canvas#wheel:hover { box-shadow: 0 0 0 3px var(--gold2), 0 0 60px rgba(224,120,6
 // ══════════════════════════════════════════════════════
 // ⚙️  CONFIGURATION — paste your Apps Script URL here
 // ══════════════════════════════════════════════════════
-const APPS_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_URL_HERE';
+const APPS_SCRIPT_URL = '[PASTE_YOUR_APPS_SCRIPT_URL_HERE](https://script.google.com/macros/s/AKfycbwlBa_pAp4i6SafMZsFh2XtnvqOMeWRIFn6HIost8YLBb8LQJlnuwm5M9YpOrLW3-03jw/exec)';
 
 // ══════════════════════════════════════════════════════
 // SCENARIO DATA
